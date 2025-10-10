@@ -1,5 +1,6 @@
 public Class Student() {
     public void run(){
-        System.println("Hi!");
+        char first = 'A';
+        System.out.prinln(char);
     }
 }
