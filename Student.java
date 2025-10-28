@@ -1,4 +1,4 @@
 public class Student {
-    String firstName;
-    int age;
+    private String firstName;
+    private int age;
 }
