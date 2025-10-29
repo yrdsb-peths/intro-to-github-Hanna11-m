@@ -1,3 +1,5 @@
+Welcome to our GitHub Classroom!
+
 1. Begin editing this file by clicking the 'pen' symbol above.
 
 2. Enter your First Name: Hanna 
